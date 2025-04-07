@@ -41,5 +41,5 @@ Hi, I'm Oleksii, a developer who bridges the gap between frontend finesse and ba
 > 💻 Always learning. Always building. Turning ideas into reality.
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=algolia&margin-w=10&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexDvor&theme=algolia&margin-w=10&margin-h=15" alt="GitHub Trophies" />
 </p>
