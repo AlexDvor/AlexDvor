@@ -31,11 +31,11 @@ Hi, I'm Oleksii, a developer who bridges the gap between frontend finesse and ba
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDvor&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-<!--## 📫 Let's Connect
+## 📫 Let's Connect
 
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-- 📬 Email: [your.email@example.com](mailto:your.email@example.com) -->
+<!--- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) -->
+- 💼 LinkedIn: [linkedin.com/in/your-username]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/oleksii-matvichuk/))
+- 📬 Email: [your.email@example.com](mailto:oleksiimatvichuk@gmail.com) 
 
 ---
 
