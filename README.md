@@ -26,7 +26,7 @@ Hi, I'm Oleksii — a passionate Full Stack Developer who loves blending beautif
 
 ## 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,reactnative,nextjs,redux,tailwind,sass,vue,nodejs,firebase,mongodb,mysql,jest,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,redux,tailwind,sass,vue,nodejs,firebase,mongodb,mysql,jest,git)
 
 > 💬 Also familiar with: React Query, REST API, Express.js, React Testing Library
 
