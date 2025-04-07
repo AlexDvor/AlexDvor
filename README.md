@@ -1,18 +1,18 @@
 # 👋 Hey there! I'm a Full Stack Developer
 
-Hi, I'm [Your Name], a developer who bridges the gap between frontend finesse and backend logic. I love building fast, user-friendly, and scalable web applications with clean and maintainable code.
+Hi, I'm Oleksii, a developer who bridges the gap between frontend finesse and backend logic. I love building fast, user-friendly, and scalable web applications with clean and maintainable code.
 
 ## 🚀 About Me
 
-- 🌐 Full Stack Developer with experience in **JavaScript / TypeScript**, **React / Next.js**, **Node.js / Express**, **NestJS**
+- 🌐 Full Stack Developer with experience in **JavaScript / TypeScript**, **React / Next.js**, **Node.js / Express**
 - 🛠️ Proficient in working with **MongoDB**, **PostgreSQL**, **Firebase**
-- 🧪 Writing tests using **Jest**, **React Testing Library**, **Cypress**
-- 🐳 Comfortable with **Docker**, **CI/CD**, **GitHub Actions**
-- ☁️ Deploying apps to **Vercel**, **Netlify**, **AWS**
+- 🧪 Writing tests using **Jest**, **React Testing Library**
+<!--- ☁️ Deploying apps to **Vercel**, **Netlify**, **AWS**-->
+<!--- 🐳 Comfortable with **Docker**, **CI/CD**, **GitHub Actions** -->
 
-## 💡 Interests
+## 💡 Interests in
 
-- 🧠 Clean code, application architecture, DevOps practices
+- 🧠 Clean code, application architecture
 - 📱 Building SPA/PWA and mobile apps (React Native)
 - 🤖 Integrating AI/ML features into web projects
 
@@ -30,11 +30,11 @@ Hi, I'm [Your Name], a developer who bridges the gap between frontend finesse an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-## 📫 Let's Connect
+<!--## 📫 Let's Connect
 
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 - 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-- 📬 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📬 Email: [your.email@example.com](mailto:your.email@example.com) -->
 
 ---
 
