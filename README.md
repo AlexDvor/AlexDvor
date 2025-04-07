@@ -18,7 +18,8 @@ Hi, I'm Oleksii, a developer who bridges the gap between frontend finesse and ba
 
 ## 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,docker,git,figma,linux)
+<!--![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,docker,git,figma,linux) -->
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nextjs,redux,tailwind,sass,vue,py,nodejs,firebase,mongodb,mysql,jest,git)
 
 ## 📈 GitHub Stats
 
@@ -40,6 +41,3 @@ Hi, I'm Oleksii, a developer who bridges the gap between frontend finesse and ba
 
 > 💻 Always learning. Always building. Turning ideas into reality.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlexDvor&theme=algolia&margin-w=10&margin-h=15" alt="GitHub Trophies" />
-</p>
