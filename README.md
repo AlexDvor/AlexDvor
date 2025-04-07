@@ -1,25 +1,34 @@
-# 👋 Hey there! I'm a Full Stack Developer
+# 👋 Hey there! I'm Oleksii — Full Stack Developer
 
-Hi, I'm Oleksii, a developer who bridges the gap between frontend finesse and backend logic. I love building fast, user-friendly, and scalable web applications with clean and maintainable code.
+Hi, I'm Oleksii — a passionate Full Stack Developer who loves blending beautiful frontend experiences with solid backend logic. I enjoy crafting high-performing, user-centric web and mobile applications using modern technologies and clean architecture principles.
+
+🎓 Currently pursuing my **Master's degree in Software Engineering** — because learning never stops.
+
+---
 
 ## 🚀 About Me
 
-- 🌐 Full Stack Developer with experience in **JavaScript / TypeScript**, **React / Next.js**, **Node.js / Express**
-- 🛠️ Proficient in working with **MongoDB**, **PostgreSQL**, **Firebase**
-- 🧪 Writing tests using **Jest**, **React Testing Library**
+- 💻 Full Stack Developer with experience in **JavaScript / TypeScript**, **React / Next.js**, **Node.js / Express**
+- 🔧 Skilled in working with **MongoDB**, **MySQL**, **Firebase**, and building secure REST APIs
+- 🧪 Testing enthusiast — using **Jest**, **React Testing Library** to ensure quality and reliability
+- 🎨 Writing clean, scalable frontend code using **TailwindCSS**, **SASS**, **Redux**, and **React Query**
+- 🌱 Currently diving deeper into **Python**, **Vue.js**, and advanced architectural patterns
 <!--- ☁️ Deploying apps to **Vercel**, **Netlify**, **AWS**-->
 <!--- 🐳 Comfortable with **Docker**, **CI/CD**, **GitHub Actions** -->
 
-## 💡 Interests in
+## 💡 What I'm Passionate About
 
-- 🧠 Clean code, application architecture
-- 📱 Building SPA/PWA and mobile apps (React Native)
-- 🤖 Integrating AI/ML features into web projects
+- 🧠 Writing clean, modular, and testable code
+- ⚙️ Scalable web architectures and backend performance
+- 📱 Building fast, responsive SPA/PWA and mobile apps (React Native)
+- 🤖 Exploring AI/ML integrations and automation in web applications
+- 🚀 Constant growth — always curious, always building
 
 ## 🧰 Tech Stack
 
-<!--![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,docker,git,figma,linux) -->
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,redux,tailwind,sass,vue,nodejs,firebase,mongodb,mysql,jest,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,reactnative,nextjs,redux,tailwind,sass,vue,nodejs,firebase,mongodb,mysql,jest,git)
+
+> 💬 Also familiar with: React Query, REST API, Express.js, React Testing Library
 
 ## 📈 GitHub Stats
 
@@ -34,7 +43,7 @@ Hi, I'm Oleksii, a developer who bridges the gap between frontend finesse and ba
 ## 📫 Let's Connect
 
 <!--- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) -->
-- 💼 LinkedIn: [https://www.linkedin.com/in/oleksii-matvichuk/]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/oleksii-matvichuk/))
+- 💼 LinkedIn: [https://www.linkedin.com/in/oleksii-matvichuk]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/oleksii-matvichuk/))
 - 📬 Email: [oleksiimatvichuk@gmail.com](mailto:oleksiimatvichuk@gmail.com) 
 
 ---
