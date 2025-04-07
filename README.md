@@ -34,7 +34,7 @@ Hi, I'm Oleksii, a developer who bridges the gap between frontend finesse and ba
 ## 📫 Let's Connect
 
 <!--- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) -->
-- 💼 LinkedIn: [linkedin.com/in/your-username]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/oleksii-matvichuk/))
+- 💼 LinkedIn: [https://www.linkedin.com/in/oleksii-matvichuk/]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/oleksii-matvichuk/))
 - 📬 Email: [oleksiimatvichuk@gmail.com](mailto:oleksiimatvichuk@gmail.com) 
 
 ---
