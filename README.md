@@ -39,3 +39,15 @@ Hi, I'm Oleksii, a developer who bridges the gap between frontend finesse and ba
 ---
 
 > 💻 Always learning. Always building. Turning ideas into reality.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+<br/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
+<br/>
+<p align="center">
+  <img src="https://github.com/your-github-username/your-github-username/blob/main/github-metrics.svg" alt="Metrics" />
+</p>
