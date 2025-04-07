@@ -19,7 +19,7 @@ Hi, I'm Oleksii, a developer who bridges the gap between frontend finesse and ba
 ## 🧰 Tech Stack
 
 <!--![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,docker,git,figma,linux) -->
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,vue,py,nodejs,firebase,mongodb,mysql,jest,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,redux,tailwind,sass,vue,nodejs,firebase,mongodb,mysql,jest,git)
 
 ## 📈 GitHub Stats
 
