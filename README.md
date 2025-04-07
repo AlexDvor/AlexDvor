@@ -23,11 +23,11 @@ Hi, I'm Oleksii, a developer who bridges the gap between frontend finesse and ba
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexDvor&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexDvor&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?AlexDvor&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <!--## 📫 Let's Connect
