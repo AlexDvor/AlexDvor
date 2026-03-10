@@ -76,5 +76,5 @@ Building scalable web applications and modern user interfaces using cutting-edge
 📬 Email: [oleksiimatvichuk@gmail.com](mailto:oleksiimatvichuk@gmail.com)
 
 ---
+<p align="center"> 💻 Always learning. Always building. Turning ideas into reality. </p>
 
-> 💻 Always learning. Always building. Turning ideas into reality.
