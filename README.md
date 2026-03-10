@@ -29,9 +29,11 @@ I enjoy designing scalable frontend architectures, building reliable backend API
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexDvor&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDvor&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexDvor&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDvor&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 <p align="center">
@@ -39,15 +41,7 @@ I enjoy designing scalable frontend architectures, building reliable backend API
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlexDvor&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexDvor&theme=react-dark"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlexDvor&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
 ---
