@@ -14,14 +14,9 @@
 Building scalable web applications and modern user interfaces using cutting-edge technologies.
 </p>
 
-
-# 👋 Hey there! I'm Oleksii — Full Stack Developer (React / Next.js focus)
-
-Hi, I'm Oleksii — a Full Stack Developer focused on building modern web applications using **React, Next.js, TypeScript, and Node.js**.
-
-I enjoy designing scalable frontend architectures, building reliable backend APIs, and creating fast, user-friendly web applications using modern development practices.
-
-🎓 Currently pursuing a **Master's degree in Computer Science (Software Engineering)**.
+<p align="center">
+🎓 Currently pursuing a <b>Master's degree in Computer Science (Software Engineering)</b>
+</p>
 
 ---
 
