@@ -29,8 +29,6 @@ I enjoy designing scalable frontend architectures, building reliable backend API
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexDvor&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDvor&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="170"/>
