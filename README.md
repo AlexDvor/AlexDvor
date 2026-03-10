@@ -1,28 +1,22 @@
-# 👋 Hey there! I'm Oleksii — Full Stack Developer
+# 👋 Hey there! I'm Oleksii — Full Stack Developer (React / Next.js focus)
 
-Hi, I'm Oleksii — a passionate Full Stack Developer who loves blending beautiful frontend experiences with solid backend logic. I enjoy crafting high-performing, user-centric web and mobile applications using modern technologies and clean architecture principles.
+Hi, I'm Oleksii — a Full Stack Developer focused on building modern web applications using **React, Next.js, TypeScript, and Node.js**.
 
-🎓 Currently pursuing my **Master's degree in Software Engineering** — because learning never stops.
+I enjoy designing scalable frontend architectures, building reliable backend APIs, and creating fast, user-friendly web applications using modern development practices.
 
----
+🎓 Currently pursuing a **Master's degree in Computer Science (Software Engineering)**.
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with experience in **JavaScript / TypeScript**, **React / Next.js**, **Node.js / Express**
-- 🔧 Skilled in working with **MongoDB**, **MySQL**, **Firebase**, and building secure REST APIs
-- 🧪 Testing enthusiast — using **Jest**, **React Testing Library** to ensure quality and reliability
-- 🎨 Writing clean, scalable frontend code using **TailwindCSS**, **SASS**, **Redux**, and **React Query**
-- 🌱 Currently diving deeper into **Python**, **Vue.js**, and advanced architectural patterns
+- 💻 Full Stack Developer working with **JavaScript / TypeScript**, **React / Next.js**, **Node.js / Express**
+- 🔧 Experience building **REST APIs**, authentication systems, and full-stack web applications
+- 🧪 Writing tests with **Jest** and **React Testing Library**
+- 🎨 Building scalable frontend architectures using **Redux Toolkit**, **React Query**, **TailwindCSS**, and **SASS**
+- 📱 Experience developing mobile applications using **React Native** and **Firebase**
+- 🌱 Currently exploring **advanced software architecture and system design**
 <!--- ☁️ Deploying apps to **Vercel**, **Netlify**, **AWS**-->
 <!--- 🐳 Comfortable with **Docker**, **CI/CD**, **GitHub Actions** -->
 
-## 💡 What I'm Passionate About
-
-- 🧠 Writing clean, modular, and testable code
-- ⚙️ Scalable web architectures and backend performance
-- 📱 Building fast, responsive SPA/PWA and mobile apps (React Native)
-- 🤖 Exploring AI/ML integrations and automation in web applications
-- 🚀 Constant growth — always curious, always building
 
 ## 🧰 Tech Stack
 
@@ -42,7 +36,7 @@ Hi, I'm Oleksii — a passionate Full Stack Developer who loves blending beautif
 
 ## 📫 Let's Connect
 
-<!--- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) -->
+- 🌐 Portfolio: https://web-portfolio-three-inky.vercel.app/
 - 💼 LinkedIn: [https://www.linkedin.com/in/oleksii-matvichuk]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/oleksii-matvichuk/))
 - 📬 Email: [oleksiimatvichuk@gmail.com](mailto:oleksiimatvichuk@gmail.com) 
 
