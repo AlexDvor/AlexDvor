@@ -6,41 +6,60 @@ I enjoy designing scalable frontend architectures, building reliable backend API
 
 🎓 Currently pursuing a **Master's degree in Computer Science (Software Engineering)**.
 
+---
+
 ## 🚀 About Me
 
-- 💻 Full Stack Developer working with **JavaScript / TypeScript**, **React / Next.js**, **Node.js / Express**
-- 🔧 Experience building **REST APIs**, authentication systems, and full-stack web applications
-- 🧪 Writing tests with **Jest** and **React Testing Library**
-- 🎨 Building scalable frontend architectures using **Redux Toolkit**, **React Query**, **TailwindCSS**, and **SASS**
-- 📱 Experience developing mobile applications using **React Native** and **Firebase**
-- 🌱 Currently exploring **advanced software architecture and system design**
-<!--- ☁️ Deploying apps to **Vercel**, **Netlify**, **AWS**-->
-<!--- 🐳 Comfortable with **Docker**, **CI/CD**, **GitHub Actions** -->
+* 💻 Full Stack Developer working with **JavaScript / TypeScript**, **React / Next.js**, **Node.js / Express**
+* 🔧 Experience building **REST APIs**, authentication systems, and full-stack web applications
+* 🧪 Writing tests with **Jest** and **React Testing Library**
+* 🎨 Building scalable frontend architectures using **Redux Toolkit**, **React Query**, **TailwindCSS**, and **SASS**
+* 📱 Experience developing mobile applications using **React Native** and **Firebase**
+* 🌱 Currently exploring **advanced software architecture and system design**
 
+---
 
 ## 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,redux,tailwind,sass,vue,nodejs,firebase,mongodb,mysql,jest,git)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,nodejs,express,firebase,mongodb,mysql,jest,git)
 
-> 💬 Also familiar with: React Query, REST API, Express.js, React Testing Library
+💬 Also familiar with: **React Query, REST APIs, Express.js, React Testing Library**
 
-## 📈 GitHub Stats
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexDvor&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexDvor&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDvor&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexDvor&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDvor&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlexDvor&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexDvor&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexDvor&theme=react-dark"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexDvor&label=Profile%20views&color=blueviolet&style=flat" />
+</p>
+
+---
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: https://web-portfolio-three-inky.vercel.app/
-- 💼 LinkedIn: [https://www.linkedin.com/in/oleksii-matvichuk]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/oleksii-matvichuk/))
-- 📬 Email: [oleksiimatvichuk@gmail.com](mailto:oleksiimatvichuk@gmail.com) 
+🌐 Portfolio: https://web-portfolio-three-inky.vercel.app/
+
+💼 LinkedIn: https://www.linkedin.com/in/oleksii-matvichuk/
+
+📬 Email: [oleksiimatvichuk@gmail.com](mailto:oleksiimatvichuk@gmail.com)
 
 ---
 
 > 💻 Always learning. Always building. Turning ideas into reality.
-
